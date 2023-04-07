@@ -13,7 +13,7 @@ const HomePage = () => {
       route: '/about'
     },
     {
-      id: 1,
+      id: 3,
       name: 'Team',
       route: '/about/team'
     },
