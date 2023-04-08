@@ -1,10 +1,6 @@
-'use client'
-
 import Link from 'next/link'
-import React, { useState } from 'react'
 
 const Header = () => {
-    const [client, setClient] = useState()
   return (
     <header className='header'>
         <div className="container">
